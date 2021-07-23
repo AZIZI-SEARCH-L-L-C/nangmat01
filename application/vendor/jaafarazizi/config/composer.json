@@ -1,0 +1,16 @@
+{
+    "name": "jaafarazizi/config",
+    "description": "Configuration extension",
+    "type": "library",
+    "require": {
+        "illuminate/config": "~5.0."
+    },
+    "license": "Comercial",
+    "authors": [
+        {
+            "name": "jaafar azizi",
+            "email": "info@jaafar.me"
+        }
+    ],
+    "minimum-stability": "dev"
+}

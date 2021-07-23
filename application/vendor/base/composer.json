@@ -1,0 +1,12 @@
+{
+    "name": "azizisearch/base",
+    "description": "base components",
+    "license": "commercial",
+    "authors": [
+        {
+            "name": "jaafar azzizi",
+            "email": "info@jaafar.me"
+        }
+    ],
+    "require": {}
+}
